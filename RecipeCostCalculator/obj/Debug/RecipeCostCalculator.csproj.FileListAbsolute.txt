@@ -1,0 +1,4 @@
+c:\users\asrar.hussain\documents\visual studio 2013\Projects\RecipeCostCalculator\bin\Debug\RecipeCostCalculator.exe
+c:\users\asrar.hussain\documents\visual studio 2013\Projects\RecipeCostCalculator\bin\Debug\RecipeCostCalculator.pdb
+c:\users\asrar.hussain\documents\visual studio 2013\Projects\RecipeCostCalculator\obj\Debug\RecipeCostCalculator.exe
+c:\users\asrar.hussain\documents\visual studio 2013\Projects\RecipeCostCalculator\obj\Debug\RecipeCostCalculator.pdb
